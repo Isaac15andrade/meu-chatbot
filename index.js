@@ -6,6 +6,8 @@ dotenv.config(); // carrega variáveis do .env local (Render faz isso automatica
 
 const app = express();
 app.use(express.json());
+app.use(express.static("public"));
+
 
 // rota de teste
 app.get("/", (req, res) => {
