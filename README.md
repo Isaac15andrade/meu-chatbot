@@ -24,7 +24,7 @@ Ele pode ser integrado futuramente com o **WhatsApp, Telegram ou site**, e roda 
 ## ⚙️ Como rodar localmente
 
 1️⃣ Clonar o repositório
-git clone https://github.com/seu-usuario/chatbot-node.git
+git clone https://github.com/isaac15andrade/meu-chatbot.git
 cd chatbot-node
 
 2️⃣ Instalar dependências
