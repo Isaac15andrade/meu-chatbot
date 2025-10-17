@@ -13,6 +13,7 @@ app.get("/", (req, res) => {
 });
 
 // rota principal do chat
+app.use(express.static("public"));
 app.post("/chat", async (req, res) => {
   const { message } = req.body;
 
