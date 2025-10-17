@@ -23,8 +23,7 @@ Ele pode ser integrado futuramente com o **WhatsApp, Telegram ou site**, e roda 
 
 ## ⚙️ Como rodar localmente
 
-### 1️⃣ Clonar o repositório
-```bash
+1️⃣ Clonar o repositório
 git clone https://github.com/seu-usuario/chatbot-node.git
 cd chatbot-node
 
