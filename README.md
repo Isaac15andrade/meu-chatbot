@@ -25,7 +25,7 @@ Ele pode ser integrado futuramente com o **WhatsApp, Telegram ou site**, e roda 
 
 1️⃣ Clonar o repositório
 git clone https://github.com/isaac15andrade/meu-chatbot.git
-cd chatbot-node
+cd meu-chatbot
 
 2️⃣ Instalar dependências
 npm install
